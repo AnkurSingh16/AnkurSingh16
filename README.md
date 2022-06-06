@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋 I'm Ankur</h1>
-<h3 align="center">I am a Principal Engineer at TPG Telecom👨‍💻</h3>
+<h3 align="center">I am a Technology Manager | Engineering Manager | Principal at TPG Telecom👨‍💻</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=AnkurSingh16&color=brightgreen" alt="Ankur" />
